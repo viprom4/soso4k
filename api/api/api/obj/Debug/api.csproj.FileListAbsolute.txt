@@ -1,0 +1,10 @@
+C:\Users\123a5\OneDrive\Рабочий стол\api\api\api\bin\Debug\api.exe.config
+C:\Users\123a5\OneDrive\Рабочий стол\api\api\api\bin\Debug\api.exe
+C:\Users\123a5\OneDrive\Рабочий стол\api\api\api\bin\Debug\api.pdb
+C:\Users\123a5\OneDrive\Рабочий стол\api\api\api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\123a5\OneDrive\Рабочий стол\api\api\api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\123a5\OneDrive\Рабочий стол\api\api\api\obj\Debug\api.csprojAssemblyReference.cache
+C:\Users\123a5\OneDrive\Рабочий стол\api\api\api\obj\Debug\api.csproj.CoreCompileInputs.cache
+C:\Users\123a5\OneDrive\Рабочий стол\api\api\api\obj\Debug\api.csproj.CopyComplete
+C:\Users\123a5\OneDrive\Рабочий стол\api\api\api\obj\Debug\api.exe
+C:\Users\123a5\OneDrive\Рабочий стол\api\api\api\obj\Debug\api.pdb
